@@ -306,7 +306,7 @@ Para consultas sobre:
 ---
 
 **Proyecto finalizado: Marzo 2026**  
-**Estado: LISTO PARA ENTREGA - PUNTAJE ESPERADO: 100/100**
+
 
 ---
 
